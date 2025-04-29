@@ -1,5 +1,4 @@
-# Simon-Says-Game
-
+# Simon_Says_Game
 
 A classic **Simon Says memory game** built using **HTML, CSS, and JavaScript**. This game challenges players to remember and repeat an increasingly long sequence of colors.
 
